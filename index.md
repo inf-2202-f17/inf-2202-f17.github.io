@@ -23,16 +23,18 @@ We have the following rooms and hours:
 |---------|--------|-----------------------------------------------|-----------|
 | L0      | AUG-18 | First lecture                                 | LAB       |
 
-// ## Readings
-// 
-// 1. 
+<!---
+## Readings
 
-// ## Mandatory assignments
+1. 
 
-// | Project |	Start      | Due     | Subject | Lecturer |
-// |---------|------------|---------|----------|---------|
-// | P1 	    | Date       | Date     | [Assignment](URL) | Lecturer 
+## Mandatory assignments
 
-// ## Exercises
+| Project |	Start      | Due     | Subject | Lecturer |
+|---------|------------|---------|----------|---------|
+| P1 	    | Date       | Date     | [Assignment](URL) | Lecturer 
 
-// 1. 
+## Exercises
+
+1. 
+-->
