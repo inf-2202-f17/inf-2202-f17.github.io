@@ -4,34 +4,35 @@ layout: default
 
 ## Administrative information
 
-Administrative course information is available [here](URL)
+Administrative course information is available [here](https://uit.no/utdanning/emner/emne/508209/inf-2202)
 
 We use the [course@list.uit.no](https://list.uit.no/sympa/info/course) mailing list to send important information.
 
 We have the following rooms and hours:
 
-* 
+* TBA
 
 ## Staff
 
-* 
+* **Lecturer:** Lars Ailo Bongo
+* **Admin person:** Einar Holsbø
 
 ## Lecture plan
 
-| Lecture   	| Date		    | Subject	  | Lecturer |
-|-----------|-----------|-----------|----------|
-| L1  | Date | [Introduction](lectures/01-introduction.pptx) | Lecturer |
+| Lecture | Date   | Subject                                       | Lecturer  |
+|---------|--------|-----------------------------------------------|-----------|
+| L0      | AUG-18 | First lecture                                 | LAB       |
 
-## Readings
+// ## Readings
+// 
+// 1. 
 
-1. 
+// ## Mandatory assignments
 
-## Mandatory assignments
+// | Project |	Start      | Due     | Subject | Lecturer |
+// |---------|------------|---------|----------|---------|
+// | P1 	    | Date       | Date     | [Assignment](URL) | Lecturer 
 
-| Project |	Start      | Due     | Subject | Lecturer |
-|---------|------------|---------|----------|---------|
-| P1 	    | Date       | Date     | [Assignment](URL) | Lecturer 
+// ## Exercises
 
-## Exercises
-
-1. 
+// 1. 
