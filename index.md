@@ -35,11 +35,11 @@ We have the following rooms and hours:
 | L9      | Thu 5/10  | Performance evaluation 2                      | Steffen Viken Valvåg |
 | L10     | Thu 12/10 | Stuctured datastreams                         | Tor Kreutzer |
 | L11     | Fri 13/10 | Cloud, Azure                                  | ?           |
-| L11     | Thu 19/10 | Azure Datalake                                | Jan-Ove Karlberg |
-| L12     | Thu 26/10 | ?                                             | ?         |
-| L13     | Thu 2/11  | ?                                             | ?         |
-| L13     | Thu 9/11  | Summary lecture                               | LAB       |
-| -       | Fri 23/11 | Exam                                          |           |
+| L12     | Thu 19/10 | Azure Datalake                                | Jan-Ove Karlberg |
+| L13     | Thu 26/10 | ?                                             | ?         |
+| L14     | Thu 2/11  | ?                                             | ?         |
+| L15     | Thu 9/11  | Summary lecture                               | LAB       |
+| Exam    | Fri 23/11 | Exam                                          |           |
 
 
 ## Mandatory assignments
