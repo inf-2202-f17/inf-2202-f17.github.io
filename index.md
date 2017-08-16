@@ -8,6 +8,9 @@ Administrative course information is available [here](https://uit.no/utdanning/e
 
 We use the [course@list.uit.no](https://list.uit.no/sympa/info/course) mailing list to send important information.
 
+We have a [Slack team](https://inf-2202-f17.slack.com/) for this course as well. You should have been invited on your university email; join us and chat about the course and the assignments.
+[Here are two slides with practicalities.](https://inf-2202-f17.github.io/public/inf2202-17-info.pdf).
+
 We have the following rooms and hours:
 
 * TBA
