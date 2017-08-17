@@ -6,14 +6,21 @@ layout: default
 
 Administrative course information is available [here](https://uit.no/utdanning/emner/emne/508209/inf-2202)
 
-We use the [course@list.uit.no](https://list.uit.no/sympa/info/course) mailing list to send important information.
+The github org for this course is [inf-2202-f17](https://github.com/inf-2202-f17)
 
-We have a [Slack team](https://inf-2202-f17.slack.com/) for this course as well. You should have been invited on your university email; join us and chat about the course and the assignments.
+We use the [inf-2202-f17@list.uit.no](https://list.uit.no/sympa/info/inf-2202-f17) mailing list to send important information. The link is to the list's website; among other things it has an archive of old emails.
+
+We have a [Slack team](https://inf-2202-f17.slack.com/). Join us and chat about the course and the assignments.
+
 [Here are two slides with practicalities.](https://inf-2202-f17.github.io/public/inf2202-17-info.pdf).
 
-We have the following rooms and hours:
+### We have the following rooms and hours:
 
-* TBA
+* TUESDAY 1415-1600 REALF A016 (might change)
+* THURSDAY 1415-1600 REALF B203
+* FRIDAY 1215-1300 Teknobygget 1.023AUD
+
+Refer to the lecture and mandatory assignment plan, and e-mails, for which room is used when.
 
 ## Staff
 
