@@ -16,11 +16,11 @@ We have a [Slack team](https://inf-2202-f17.slack.com/). Join us and chat about 
 
 ### We have the following rooms and hours:
 
-* TUESDAY 1415-1600 REALF A016 (might change)
+* TUESDAY 1415-1600 REALF A016 (This will change around October, 1st due to renovation)
 * THURSDAY 1415-1600 REALF B203
 * FRIDAY 1215-1300 Teknobygget 1.023AUD
 
-Refer to the lecture and mandatory assignment plan, and e-mails, for which room is used when.
+Refer to the lecture and mandatory assignment plan, and e-mails for which room is used when.
 
 ## Staff
 
