@@ -12,7 +12,6 @@ We use the [inf-2202-f17@list.uit.no](https://list.uit.no/sympa/info/inf-2202-f1
 
 We have a [Slack team](https://inf-2202-f17.slack.com/). Join us and chat about the course and the assignments.
 
-[Here are two slides with practicalities.](https://inf-2202-f17.github.io/public/inf2202-17-info.pdf).
 
 ### We have the following rooms and hours:
 
@@ -34,7 +33,9 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 
 | Lecture | Date      | Subject                                       | Lecturer  |
 |---------|-----------|-----------------------------------------------|-----------|
-| L1      | Fri 18/8  | Introduction                                  | LAB, EH   |
+| L1      | Fri 18/8  | Introduction
+                        [(Einar's 2 slides)](https://inf-2202-f17.github.io/public/inf2202-17-info.pdf).
+                                                                      | LAB, EH   |
 | L2      | Thu 24/8  | Threads and synchronization primitives; Parallel architectures  | Lars Tiede |
 | L3      | Thu 31/8  | Parallel programs                             | Lars Tiede |
 | L4      | Thu 7/9   | Asynchronous programming                      | Dag Brattli |
