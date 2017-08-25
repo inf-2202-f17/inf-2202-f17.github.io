@@ -12,6 +12,8 @@ We use the [inf-2202-f17@list.uit.no](https://list.uit.no/sympa/info/inf-2202-f1
 
 We have a [Slack team](https://inf-2202-f17.slack.com/). Join us and chat about the course and the assignments.
 
+Please ruminate on [this page about citation, plagiarism, &c. from the university](https://uit.no/om/enhet/artikkel?p_document_id=473719). Norwegian only.
+
 
 ### We have the following rooms and hours:
 
