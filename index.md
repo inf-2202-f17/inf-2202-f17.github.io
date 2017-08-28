@@ -35,7 +35,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 
 | Lecture | Date      | Subject                                       | Lecturer  |
 |---------|-----------|-----------------------------------------------|-----------|
-| L1      | Fri 18/8  | Introduction [(Einar's 2 slides)](https://inf-2202-f17.github.io/public/inf2202-17-info.pdf). | LAB, EH   |
+| L1      | Fri 18/8  | [Introduction](public/01-introuction.pptx) and  [practical information](https://inf-2202-f17.github.io/public/inf2202-17-info.pdf). | LAB, EH   |
 | L2      | Thu 24/8  | [Threads and synchronization primitives; Parallel architectures](https://github.com/inf-2202-f17/inf-2202-f17.github.io/blob/master/public/02-threads-synchronization.pptx)  NB that nothing from slide 39 onward will be on the exam | Lars Tiede |
 | L3      | Thu 31/8  | Parallel programs                             | Lars Tiede |
 | L4      | Thu 7/9   | Asynchronous programming                      | Dag Brattli |
