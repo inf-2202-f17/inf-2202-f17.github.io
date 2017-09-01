@@ -38,9 +38,9 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | L1      | Fri 18/8  | [Introduction](public/01-introduction.pptx) and  [practical information](https://inf-2202-f17.github.io/public/inf2202-17-info.pdf). | LAB, EH   |
 | L2      | Thu 24/8  | [Threads and synchronization primitives; Parallel architectures](https://github.com/inf-2202-f17/inf-2202-f17.github.io/blob/master/public/02-threads-synchronization.pptx)  NB that nothing from slide 39 onward will be on the exam | Lars Tiede |
 | L3      | Thu 31/8  | Parallel programs                             | Lars Tiede |
-| L4      | Thu 7/9   | Asynchronous programming                      | Dag Brattli |
-| L5      | Thu 14/9  | Reactive programming                          | Dag Brattli |
-| L6      | Thu 21/9  | Asynchronous + reactive programming           | Dag Brattli |
+| L4      | Thu 7/9   | Asynchronous and Event-based Programming                              | Dag Brattli |
+| L5      | Thu 14/9  | Reactive vs Interactive Programming                                   | Dag Brattli |
+| L6      | Thu 21/9  | Virtual Time Scheduling and Asynchronous Reactive Programming         | Dag Brattli |
 | L7      | Thu 28/9  | Performance evaluation 1                      | Åge Kvalnes |
 | L8      | Fri 29/9  | C#                                            | ?           |
 | L9      | Thu 5/10  | Performance evaluation 2                      | Steffen Viken Valvåg |
