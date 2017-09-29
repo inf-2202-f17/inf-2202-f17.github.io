@@ -41,7 +41,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | L4      | Thu 7/9   | [Asynchronous and Event-based Programming](https://github.com/inf-2202-f17/inf-2202-f17.github.io/blob/master/public/04-Asynchronous%20and%20Event-Based%20Programming.pptx?raw=true)                              | Dag Brattli |
 | L5      | Thu 14/9  | Reactive vs Interactive Programming                                   | Dag Brattli |
 | L6      | Thu 21/9  | Virtual Time Scheduling and Asynchronous Reactive Programming         | Dag Brattli |
-| L7      | Thu 28/9  | [Performance evaluation 1] (https://github.com/inf-2202-f17/inf-2202-f17.github.io/blob/master/public/2017-09-27-PerformanceEvaluation?raw=true)                      | Åge Kvalnes |
+| L7      | Thu 28/9  | [Performance evaluation 1](https://github.com/inf-2202-f17/inf-2202-f17.github.io/blob/master/public/2017-09-27-PerformanceEvaluation.pdf?raw=true)                      | Åge Kvalnes |
 | L8      | Fri 29/9  | C#                                            | ?           |
 | L9      | Thu 5/10  | Performance evaluation 2                      | Steffen Viken Valvåg |
 | L10     | Thu 12/10 | Stuctured datastreams                         | Tor Kreutzer |
