@@ -61,9 +61,3 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | P2      | Mon 11/9    | Wed 4/10 | Reactive programming | DB |
 | P3      | Fri 6/10   | Fri 3/11 | Datalake | TES |
 
-
-
-## Exercises
-
-1. 
--->
