@@ -58,6 +58,6 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | Project |	Start      | Due      | Subject  | Presenter |
 |---------|------------|----------|----------|---------|
 | P1 	    | Tue 22/8   | Thu 7/9 23:00  | [Parallel programming using threads](https://github.com/inf-2202-f17/1st_mandatory) | EH |
-| P2      | Mon 11/9    | Wed 4/10 | Reactive programming | DB |
-| P3      | Fri 6/10   | Fri 3/11 | Datalake | TES |
+| P2      | Mon 11/9    | Wed 4/10 | [Re:activity - A reactive bike computer](https://github.com/inf-2202-f17/2nd_mandatory) | DB |
+| P3      | Fri 6/10   | Fri 3/11 23:00| [Techniques for working with cloud-scale datasets](https://github.com/inf-2202-f17/p3) | JK+TK |
 
