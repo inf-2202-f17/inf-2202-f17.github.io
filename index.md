@@ -40,7 +40,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | L5      | Thu 14/9  | Reactive vs Interactive Programming (in Fronter)                      | Dag Brattli |
 | L6      | Thu 21/9  | Virtual Time Scheduling and Asynchronous Reactive Programming (in Fronter) | Dag Brattli |
 | L7      | Thu 28/9  | [Performance evaluation 1](https://github.com/inf-2202-f17/inf-2202-f17.github.io/blob/master/public/2017-09-27-PerformanceEvaluation.pdf?raw=true)                      | Åge Kvalnes |
-| L8      | Thu 5/10  | [Performance evaluation 2 - Distributed systems and web applications]()  | Steffen Viken Valvåg |
+| L8      | Thu 5/10  | [Performance evaluation 2 - Distributed systems and web applications](public/2017-10-05-PerformanceEvaluationUit.pptx)  | Steffen Viken Valvåg |
 | L9      | Fri 29/9  | C# and Visual Studio                          | Fredrik Høisæther Rasch |
 | L10     | Thu 12/10 | Cloud services: Monitoring, data, and analytics (in Fronter) | Tor Kreutzer and Jan-Ove Karlberg |
 | L11     | Thu 19/10 | Getting the most out of cloud service logs (in Fronter)   | Jan-Ove Karlberg and Tor Kreutzer |
