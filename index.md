@@ -31,21 +31,19 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 
 ## Lecture plan
 
-**
-
 | Lecture | Date      | Subject                                       | Lecturer  |
 |---------|-----------|-----------------------------------------------|-----------|
 | L1      | Fri 18/8  | [Introduction](public/01-introduction.pptx) and  [practical information](https://inf-2202-f17.github.io/public/inf2202-17-info.pdf). | LAB, EH   |
 | L2      | Thu 24/8  | [Threads and synchronization primitives; Parallel architectures](https://github.com/inf-2202-f17/inf-2202-f17.github.io/blob/master/public/02-threads-synchronization.pptx)  NB that nothing from slide 39 onward will be on the exam | Lars Tiede |
 | L3      | Thu 31/8  | [Parallel programs](https://github.com/inf-2202-f17/inf-2202-f17.github.io/blob/master/public/03-1-parallelization-process-and-architectures.pptx?raw=true) Slides from pt. 2 (parallel processors from client to cloud, won't be on exam) available on request from Einar.                             | Lars Tiede |
 | L4      | Thu 7/9   | [Asynchronous and Event-based Programming](https://github.com/inf-2202-f17/inf-2202-f17.github.io/blob/master/public/04-Asynchronous%20and%20Event-Based%20Programming.pptx?raw=true)                      | Dag Brattli |
-| L5      | Thu 14/9  | Reactive vs Interactive Programming                                   | Dag Brattli |
-| L6      | Thu 21/9  | Virtual Time Scheduling and Asynchronous Reactive Programming         | Dag Brattli |
+| L5      | Thu 14/9  | Reactive vs Interactive Programming (in Fronter)                      | Dag Brattli |
+| L6      | Thu 21/9  | Virtual Time Scheduling and Asynchronous Reactive Programming (in Fronter) | Dag Brattli |
 | L7      | Thu 28/9  | [Performance evaluation 1](https://github.com/inf-2202-f17/inf-2202-f17.github.io/blob/master/public/2017-09-27-PerformanceEvaluation.pdf?raw=true)                      | Åge Kvalnes |
-| L8      | Thu 5/10  | Performance evaluation 2                      | Steffen Viken Valvåg |
+| L8      | Thu 5/10  | [Performance evaluation 2 - Distributed systems and web applications]()  | Steffen Viken Valvåg |
 | L9      | Fri 29/9  | C# and Visual Studio                          | Fredrik Høisæther Rasch |
-| L10     | Thu 12/10 | Cloud services: Monitoring, data, and analytics  | Tor Kreutzer and Jan-Ove Karlberg |
-| L11     | Thu 19/10 | Getting the most out of cloud service logs    | Jan-Ove Karlberg and Tor Kreutzer |
+| L10     | Thu 12/10 | Cloud services: Monitoring, data, and analytics (in Fronter) | Tor Kreutzer and Jan-Ove Karlberg |
+| L11     | Thu 19/10 | Getting the most out of cloud service logs (in Fronter)   | Jan-Ove Karlberg and Tor Kreutzer |
 | -       | Thu 26/10 | No lecture                                    | -         |
 | -       | Thu 2/11  | No lecture                                    | -         |
 | L12     | Thu 9/11  | The Fram Supercomputer                        | Steinar Trædal-Henden |
