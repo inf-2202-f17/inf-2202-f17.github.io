@@ -59,3 +59,6 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | P2      | Mon 11/9    | Wed 4/10 | [Re:activity - A reactive bike computer](https://github.com/inf-2202-f17/2nd_mandatory) | DB |
 | P3      | Fri 6/10   | Fri 3/11 23:00| [Techniques for working with cloud-scale datasets](https://github.com/inf-2202-f17/p3) | JK+TK |
 
+## Previous exams
+
+Previous exams given in this course are [here](https://uit.no/om/enhet/artikkel?p_document_id=319867&p_dimension_id=88131). The most relevant exams are from 2013, 2015 and 2016.
